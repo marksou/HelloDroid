@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1368885802000 473 eaa52d688af7b45f69589a0c57c675bd671ef009 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$dimen.class
+1368885653000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/libs/android-support-v4.jar
+1368885802000 419 4150fc8e0b1f941f77bde3f267d69fd69da4781d /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$drawable.class
+1368885802000 352 6258df5ce15078774cc05da0795746cf93c3ae21 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$attr.class
+1368885802000 484 97d83ef0eb9dadbbbcd6a9056e9bd6ee76d10190 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$string.class
+1368885802000 717 b73002c94de700810c0e8fac3e59060b0b8080c4 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R.class
+1368885802000 415 214f7f7be21c3c5429e9f6a19462c0aa5af4ad2a /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$layout.class
+1368885802000 825 3840025940b62f4a5e44eb517a99c0bb51750cc0 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/MainActivity.class
+1368885802000 353 52d42cc7b8c36ed032b1f3c94db383f24a67f393 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/BuildConfig.class
+1368885802000 405 175faa9b646b0f36f4052bb69f7f9e717fb1f386 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$id.class
+1368885802000 443 9afd9f51081e6109bb7075255b35ef0e4517b591 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$style.class
+1368885802000 400 be1f9a04e33ae91d0502210b9266b03ffa3aa3f1 /Users/marksouthee/AndroidStudioProjects/HelloDroid/HelloDroid/build/classes/debug/com/example/hellodroid/R$menu.class
